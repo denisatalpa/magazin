@@ -1,0 +1,15 @@
+Laptop 10 4500.50
+Mouse 50 79.99
+Tastatura 30 129.99
+Monitor 20 899.99
+HardDisk 25 320.75
+SSD 40 599.99
+RAM 35 250.00
+PlacaVideo 15 1999.99
+Procesor 18 1349.99
+PlacaDeBaza 12 750.00
+Carcasa 20 300.00
+Sursa 25 400.00
+Imprimanta 10 899.99
+Scanner 8 499.99
+Router 30 199.99
